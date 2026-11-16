@@ -1,7 +1,7 @@
 # DSH
 DeepSeek Harness Plugin, some plugins rely otherone.
 
-本仓库用于组织DeepSeek Harness生态中的插件项目。各插件可以有自己的依赖、版本和发行流程；本仓库不包含DSH主程序或Aurabot本体。
+本仓库用于组织DeepSeek Harness生态中的插件项目。各插件可以有自己的依赖、版本和发行流程；本仓库不包含DSH主程序。
 
 ## 插件
 
