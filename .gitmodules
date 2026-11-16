@@ -1,0 +1,4 @@
+[submodule "plugins/thinkstar-memory"]
+	path = plugins/thinkstar-memory
+	url = https://github.com/rangesong/DSHaurabot-memory.git
+	branch = main
